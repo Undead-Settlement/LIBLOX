@@ -19,6 +19,10 @@ Idade: 12 anos
 <h3>Descrição:</h3>
 Lucas é um estudante do ensino fundamental que adora jogos no Roblox, principalmente do estilo "Obby". Porém, ele tem um melhor amigo surdo, com o qual gosta de jogar. A dificuldade surge quando tentam se comunicar, já que só conseguem escrever no jogo, mas pessoalmente eles tem dificuldade de se entenderem graças à essa barreira linguística.
 
+<h3>Objetivo:</h3>
+Lucas gostaria de conseguir se comunicar melhor com seu melhor amigo surdo, para que assim, haja mais interatividade e dinâmica entre os dois.
+
+
 
 
 
