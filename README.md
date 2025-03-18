@@ -12,6 +12,7 @@ a cada mil crianças que nascem, entre três e cinco já apresentam problemas au
 
 
 <h1>Diagrama de Ishikawa</h1>
+
 ![Diagrama ishikawa](https://github.com/user-attachments/assets/ed1e65d7-6401-43fe-bbed-af6d4abe3ef3)
 
 
