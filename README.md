@@ -21,7 +21,7 @@ Para que aumente a interação nas escolas, sem mais exclusão por conta da barr
 
 Nome: Lucas
 <br>
-Idade: 12 anos
+Idade: 12 ano
 
 <h3>Descrição:</h3>
 Lucas é um estudante do ensino fundamental que adora jogos no Roblox, principalmente do estilo "Obby". Porém, ele tem um melhor amigo surdo, com o qual gosta de jogar. A dificuldade surge quando tentam se comunicar, já que só conseguem escrever no jogo, mas pessoalmente eles tem dificuldade de se entenderem graças à essa barreira linguística.
