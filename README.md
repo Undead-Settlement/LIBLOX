@@ -3,7 +3,7 @@ Jogo de libras através da plataforma ROBLOX
 
 <h1>Contextualização</h1>
 
-<strong>A cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹</strong>
+<strong>A cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹</strong>, por isso, esta
 
 <h1>Necessidades</h1>
 
@@ -12,7 +12,13 @@ Jogo de libras através da plataforma ROBLOX
 
 <h1>Persona</h1>
 
-[placeholder]
+Nome: Lucas
+Idade: 12 anos
+
+<h3>Descrição:</h3>
+Lucas é um estudante do ensino fundamental que adora jogos no Roblox, principalmente do estilo "Obby". Porém, ele tem um melhor amigo surdo, com o qual gosta de jogar. A dificuldade surge quando tentam se comunicar, já que só conseguem escrever no jogo, mas pessoalmente eles tem dificuldade de se entenderem graças à essa barreira linguística.
+
+
 
 
 
