@@ -45,5 +45,5 @@ Lucas gostaria de conseguir se comunicar melhor com seu melhor amigo surdo, para
 
 <h1>Referências</h1>
 1. https://hc.unicamp.br/noticia/2012/11/08/15-milhoes-de-brasileiros-tem-problemas-auditivos/
-<br>
+<br><br>
 2. https://www.terra.com.br/noticias/educacao/educar-para-incluir/94-dos-professores-nao-tem-formacao-para-lidar-com-alunos-com-deficiencia,5d4213e256ec2b1bd3204e649b0f49a9sqswjtji.html
