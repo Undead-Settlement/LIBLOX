@@ -3,7 +3,12 @@ Jogo de libras através da plataforma ROBLOX
 
 <h1>Contextualização</h1>
 
-<strong>A cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹</strong>, por isso, esta
+<strong>A cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹</strong>, algo que causa transtorno e dificuldade no ambiente escolar, agravado pela exclusão entre os colegas de classe e a <strong>falta de capacitação dos professores².</strong>
+
+<h1>Nosso objetivo</h1>
+Queremos aumentar a inclusão no ambiente escolar, não com a falta de capacitação dos professores, mas sim com a interação com outros colegas de classe.
+<h3>Como faremos isso?</h3>
+Através do nosso jogo, Liblox, queremos que todas as crianças possam aprender libras de forma fácil e divertida. 
 
 <h1>Necessidades</h1>
 
@@ -40,3 +45,5 @@ Lucas gostaria de conseguir se comunicar melhor com seu melhor amigo surdo, para
 
 <h1>Referências</h1>
 1. https://hc.unicamp.br/noticia/2012/11/08/15-milhoes-de-brasileiros-tem-problemas-auditivos/
+<br>
+2. https://www.terra.com.br/noticias/educacao/educar-para-incluir/94-dos-professores-nao-tem-formacao-para-lidar-com-alunos-com-deficiencia,5d4213e256ec2b1bd3204e649b0f49a9sqswjtji.html
