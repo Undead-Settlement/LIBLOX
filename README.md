@@ -3,7 +3,7 @@ Jogo de libras através da plataforma ROBLOX
 
 <h1>Contextualização</h1>
 
-a cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹,
+<strong>a cada mil crianças que nascem, entre três e cinco já apresentam problemas auditivos¹</strong>,
 
 
 
