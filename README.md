@@ -8,7 +8,7 @@ Jogo de libras através da plataforma ROBLOX
 <h1>Nosso objetivo</h1>
 Queremos aumentar a inclusão no ambiente escolar, não com a falta de capacitação dos professores, mas sim com a interação com outros colegas de classe.
 <h3>Como faremos isso?</h3>
-Através do nosso jogo, Liblox, queremos que todas as crianças possam aprender libras de forma fácil e divertida.
+Através do nosso jogo, Liblox, queremos que as crianças possam aprender libras de forma fácil e divertida.
 <h3>Por que estamos fazendo isso?</h3>
 Para que aumente a interação nas escolas, sem mais exclusão por conta da barreira linguística. E dessa forma, mesmo que os professores não sejam capacitados, as crianças poderão se ajudar, fazendo grupos e interagindo com mais curiosidade e prazer um no outro. <strong>Formando laços mais fortes na sala de aula e promovendo o desenvolvimento coletivo³.</strong>
 <br>
