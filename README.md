@@ -40,9 +40,6 @@ O banco de dados é gerenciado pela própria empresa Roblox, nós somente iremos
 <h1></h1>
 
 <br>
-<h1>Necessidades</h1>
-
-[placeholder]
 
 
 <h1>Persona</h1>
