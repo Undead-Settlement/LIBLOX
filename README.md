@@ -12,6 +12,19 @@ Através do nosso jogo, Liblox, queremos que todas as crianças possam aprender 
 <h3>Por que estamos fazendo isso?</h3>
 Para que aumente a interação nas escolas, sem mais exclusão por conta da barreira linguística. E dessa forma, mesmo que os professores não sejam capacitados, as crianças poderão se ajudar, fazendo grupos e interagindo com mais curiosidade e prazer um no outro. <strong>Formando laços mais fortes na sala de aula e promovendo o desenvolvimento coletivo³.</strong>
 <br>
+
+<h1>Tecnologias utilizadas</h1>
+Estamos utilizando a ferramenta do Roblox Studio para realizar a criação desse jogo. Os scripts são programados na linguagem LUAu e com imagens retiradas de open source de pesquisas do google.
+<br>
+
+<h1>Requisitos funcionais</h1>
+<ul>
+  <li>Portas erradas devem reiniciar o progresso do jogador.</li>
+  <li>Portas corretas devem acrescentar à pontuação do jogador.</li>
+  <li>Salvar o progresso em pontos específicos da série de perguntas.</li>
+</ul>
+
+<br>
 <h1>Necessidades</h1>
 
 [placeholder]
@@ -43,6 +56,17 @@ Lucas gostaria de conseguir se comunicar melhor com seu melhor amigo surdo, para
 <h1>Diagrama de Ishikawa</h1>
 
 ![Diagrama ishikawa](https://github.com/user-attachments/assets/ed1e65d7-6401-43fe-bbed-af6d4abe3ef3)
+
+<br>
+
+
+
+
+
+
+
+
+
 
 
 <h1>Referências</h1>
