@@ -35,13 +35,7 @@ O banco de dados é gerenciado pela própria empresa Roblox, nós somente iremos
   <li>Git Hub - Backups necessários para apresentação</li>
   <li>Roblox Studio - Onde todos os scripts ficarão guardados, pois já há seu próprio sistema de versionamento</li>
 </ul>
-
 <br>
-<h1></h1>
-
-<br>
-
-
 <h1>Persona</h1>
 
 Nome: Lucas
