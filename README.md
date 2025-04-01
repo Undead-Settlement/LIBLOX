@@ -23,6 +23,21 @@ Estamos utilizando a ferramenta do Roblox Studio para realizar a criação desse
   <li>Portas corretas devem acrescentar à pontuação do jogador.</li>
   <li>Salvar o progresso em pontos específicos da série de perguntas.</li>
 </ul>
+<br>
+
+
+<h1>Banco de dados</h1>
+O banco de dados é gerenciado pela própria empresa Roblox, nós somente iremos fazer a persistência da pontuação de cada jogador, para que eles não percam todo o progresso por conta de um erro cometido durante o aprendizado.
+<br>
+
+<h1>Ferramentas de versionamento</h1>
+<ul>
+  <li>Git Hub - Backups necessários para apresentação</li>
+  <li>Roblox Studio - Onde todos os scripts ficarão guardados, pois já há seu próprio sistema de versionamento</li>
+</ul>
+
+<br>
+<h1></h1>
 
 <br>
 <h1>Necessidades</h1>
