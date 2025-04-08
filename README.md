@@ -1,5 +1,6 @@
 # LIBLOX
-Jogo de libras através da plataforma ROBLOX
+Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes, Thiago Vieira e Igor Freitas.
+
 
 <h1>Contextualização</h1>
 
@@ -65,7 +66,15 @@ Lucas gostaria de conseguir se comunicar melhor com seu melhor amigo surdo, para
 
 <br>
 
+<h1>Alguns dados:</h1>
 
+Quantidade de jogos para aprender Libras no Roblox: 0.
+
+Quantidade de jogos para aprender libras online: em torno de 1.000 (veja abaixo)*
+
+*Ao buscar por palavras chaves dentro do Google, ele retorna por volta de 10.000 resultados. <strong>Porém</strong>, esses números <strong>não representam a quantidade real</strong> de jogos que realmente ensinam libras, visto que, eles incluem aplicativos de celular, plataformas educacionais, recursos criados por usuários (como o wordwall onde é um jogo pra adivinhar palavras, não há imagens), blogs dando dicas de estudo e incluindo jogos e cursos onlines que incluem atividades gameficadas.
+
+Então por mais que retorne em torno de 10.000 resultados, o número real fica em torno de 800 a 1000 jogos.
 
 
 
