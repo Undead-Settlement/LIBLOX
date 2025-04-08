@@ -76,6 +76,8 @@ Quantidade de jogos para aprender libras online: em torno de 1.000 (veja abaixo)
 
 Então por mais que retorne em torno de 10.000 resultados, o número real fica em torno de 800 a 1000 jogos.
 
+<strong>Outros dados importantes:</strong>
+O maior fórum de pessoas interessadas em libras <strong>online</strong> é o r/ASL, onde participam mais de <strong>82 mil</strong> membros, ou seja, está entre os top <strong>2%</strong> dos maiores subreddits existentes. Isso significa que, por mais que a relação de pessoas nesse fórum e o total de surdas no Brasil (10 milhões) seja de 12095.12% , ainda tem sim um grande público interessado em aprender libras de forma online/dinâmica.
 
 
 
