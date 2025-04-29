@@ -37,7 +37,7 @@ GitHub:
 
 Reuniões:
 
-Daily: Breve atualização via WhatsApp (texto ou áudio) com:
+Daily: Breve atualização via Discord (texto ou áudio) com:
 
 O que foi feito ontem?  
 O que será feito hoje?  
