@@ -1,6 +1,8 @@
 # LIBLOX
 Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes, Thiago Vieira e Igor Freitas.
-
+## Colaboradores:
+<img src="https://github.com/user-attachments/assets/d7b34f4e-3c38-4b09-8bd5-53013e94348b" style="width:50px; height:50px;"> -> **VertigoFromOuterSpace** - Henrique <br>
+<img src="https://github.com/user-attachments/assets/c88bd63d-f727-418c-ad73-6e2c2a8aba5b" style="width:50px; height:50px;"> -> **Raccoonvoor** - Thiago <br>
 
 <h1>Contextualização</h1>
 
