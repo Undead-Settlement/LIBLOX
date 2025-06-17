@@ -1,4 +1,4 @@
-# LIBLOX
+![image](https://github.com/user-attachments/assets/61a801b8-9c88-4893-8ddb-cea4c23c6e2a)# LIBLOX
 Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes e Thiago Vieira.
 ---
 ![image](https://github.com/user-attachments/assets/1e09b099-571a-4016-93c3-80f807af036a)
@@ -88,6 +88,16 @@ Então por mais que retorne em torno de 10.000 resultados, o número real fica e
 
 <strong>Outros dados importantes:</strong>
 O maior fórum de pessoas interessadas em libras <strong>online</strong> é o r/ASL, onde participam mais de <strong>82 mil</strong> membros, ou seja, está entre os top <strong>2%</strong> dos maiores subreddits existentes. Isso significa que, por mais que a relação de pessoas nesse fórum e o total de surdas no Brasil (10 milhões) seja de 12095.12% , ainda tem sim um grande público interessado em aprender libras de forma online/dinâmica.
+
+
+## Protótipos de tela:
+![image](https://github.com/user-attachments/assets/1697c66f-312c-47ad-b45a-f386efd782f0)
+![image](https://github.com/user-attachments/assets/a8698fc4-8714-4866-9178-c2da60172e84)
+![image](https://github.com/user-attachments/assets/1bdaf9c8-293a-4721-9a8e-851754297f18)
+![image](https://github.com/user-attachments/assets/ba2664bf-20e2-4d07-ab87-65528a7bca94)
+![image](https://github.com/user-attachments/assets/ec183db6-b81b-4965-acbe-9419069ff258)
+![image](https://github.com/user-attachments/assets/78cdff4e-2e61-403f-ba34-8cf380aef7fb)
+
 
 
 
