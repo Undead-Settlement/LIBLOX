@@ -21,10 +21,10 @@ Através do nosso jogo, Liblox, queremos que as crianças possam aprender libras
 <h3>Por que estamos fazendo isso?</h3>
 Para que aumente a interação nas escolas, sem mais exclusão por conta da barreira linguística. E dessa forma, mesmo que os professores não sejam capacitados, as crianças poderão se ajudar, fazendo grupos e interagindo com mais curiosidade e prazer um no outro. <strong>Formando laços mais fortes na sala de aula e promovendo o desenvolvimento coletivo³.</strong>
 <br>
-
+<br>
 <h1>Tecnologias utilizadas</h1>
 Estamos utilizando a ferramenta do Roblox Studio para realizar a criação desse jogo. Os scripts são programados na linguagem LUAu e com imagens retiradas de open source de pesquisas do google.
-<br>
+<br><br>
 
 <h1>Requisitos funcionais</h1>
 <ul>
@@ -38,7 +38,7 @@ Estamos utilizando a ferramenta do Roblox Studio para realizar a criação desse
 <h1>Banco de dados</h1>
 O banco de dados é gerenciado pela própria empresa Roblox, nós somente iremos fazer a persistência da pontuação de cada jogador, para que eles não percam todo o progresso por conta de um erro cometido durante o aprendizado.
 <br>
-
+<br>
 <h1>Ferramentas de versionamento</h1>
 <ul>
   <li>Git Hub - Backups necessários para apresentação</li>
