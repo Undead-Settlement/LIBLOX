@@ -1,5 +1,9 @@
 # LIBLOX
-Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes, Thiago Vieira e Igor Freitas.
+Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes e Thiago Vieira.
+
+# Repositório
+Esse repositório marca o desenvolvimento feito através da matéria de projeto integrador ao longo do curso. Graças à ajuda de todos os professores que passaram por nós e a ajuda de outras fontes de pesquisa, apresentamos este jogo para ensinar libras, feito na plataforma Roblox.
+
 ## Colaboradores:
 <img src="https://github.com/user-attachments/assets/d7b34f4e-3c38-4b09-8bd5-53013e94348b" style="width:50px; height:50px;"> -> **VertigoFromOuterSpace** - Henrique <br>
 <img src="https://github.com/user-attachments/assets/c88bd63d-f727-418c-ad73-6e2c2a8aba5b" style="width:50px; height:50px;"> -> **Raccoonvoor** - Thiago <br>
