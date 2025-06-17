@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61a801b8-9c88-4893-8ddb-cea4c23c6e2a)# LIBLOX
+# LIBLOX
 Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes e Thiago Vieira.
 ---
 ![image](https://github.com/user-attachments/assets/1e09b099-571a-4016-93c3-80f807af036a)
