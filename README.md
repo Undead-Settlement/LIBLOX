@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/1e09b099-571a-4016-93c3-80f807af036a)
-
 # LIBLOX
 Jogo de libras através da plataforma ROBLOX feito através da colaboração de Henrique Lopes e Thiago Vieira.
-
+![image](https://github.com/user-attachments/assets/1e09b099-571a-4016-93c3-80f807af036a)
 ## Repositório
 Esse repositório marca o desenvolvimento feito através da matéria de projeto integrador ao longo do curso. Graças à ajuda de todos os professores que passaram por nós e a ajuda de outras fontes de pesquisa, apresentamos este jogo para ensinar libras, feito na plataforma Roblox.
 
@@ -83,6 +81,8 @@ Quantidade de jogos para aprender libras online: em torno de 1.000 (veja abaixo)
 *Ao buscar por palavras chaves dentro do Google, ele retorna por volta de 10.000 resultados. <strong>Porém</strong>, esses números <strong>não representam a quantidade real</strong> de jogos que realmente ensinam libras, visto que, eles incluem aplicativos de celular, plataformas educacionais, recursos criados por usuários (como o wordwall onde é um jogo pra adivinhar palavras, não há imagens), blogs dando dicas de estudo e incluindo jogos e cursos onlines que incluem atividades gameficadas.
 
 Então por mais que retorne em torno de 10.000 resultados, o número real fica em torno de 800 a 1000 jogos.
+
+Preço médio do desenvolvimento: Realizamos a comparação com a média de preço de outros jogos dentro do Roblox. Baseamos-nos principalmente em quantidade de níveis, quantos scripts são utilizados, tamanho dos servidores e complexidade do código. Chegamos no número entre <strong>100 e 250</strong> dólares. Roblox funciona através de freelance, então esses valores apresentam somente a média, podendo ser maior ou menor dependendo do cliente.
 
 <strong>Outros dados importantes:</strong>
 O maior fórum de pessoas interessadas em libras <strong>online</strong> é o r/ASL, onde participam mais de <strong>82 mil</strong> membros, ou seja, está entre os top <strong>2%</strong> dos maiores subreddits existentes. Isso significa que, por mais que a relação de pessoas nesse fórum e o total de surdas no Brasil (10 milhões) seja de 12095.12% , ainda tem sim um grande público interessado em aprender libras de forma online/dinâmica.
